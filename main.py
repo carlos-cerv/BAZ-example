@@ -12,5 +12,6 @@ print('Sparky->', dog_dict['Sparky'])
 print(list(dog_dict.keys()))
 
 # Comment
+# Comment 2
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
